@@ -11,6 +11,6 @@ AI generated the initial structure, and I manually refined it by adding 'menu_ic
 <br><br>
 
 Here is the link to the local WP site: <br>
-unbiased-pigeon.localsite.io <br>
+[unbiased-pigeon.localsite.io](url) <br>
 username: laptop <br>
 pass: dreary
