@@ -13,7 +13,7 @@ add_action( 'init', 'mvp_register_movie_post_type' );
  */
 function mvp_register_movie_post_type() {
 	$labels = array(
-		'name'               => __( 'Movies', 'my-vibe-plugin' ),
+		'name'               => __( 'Movies', 'my-vibe-plugin' ), // This is the name of the post type in the admin panel.
 		'singular_name'      => __( 'Movie', 'my-vibe-plugin' ),
 		'add_new'            => __( 'Add New', 'my-vibe-plugin' ),
 		'add_new_item'       => __( 'Add New Movie', 'my-vibe-plugin' ),
