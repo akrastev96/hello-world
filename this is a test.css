@@ -4,3 +4,10 @@ body::before {
   display: block;
   margin-top: 20px;
 }
+
+body::after {
+  content: "I love playing video games";
+  font-size: 24px;
+  display: block;
+  margin-top: 10px;
+}
